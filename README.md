@@ -19,7 +19,7 @@ Finally, use the following command to run the target binary:
 ./<TARGET_FILE>
 ```
 ### Fast Run
-o quickly run the files without compiling, use the following command:
+To quickly run the files without compiling, use the following command:
 ```
 swift <TARGET_FILE>.swift
 ```
