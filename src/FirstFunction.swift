@@ -1,3 +1,10 @@
+//
+//  FirstFunction.swift
+//  Swift-Journey
+//
+//  Created by Ali Shahabzadeh on 28/01/2025.
+//
+
 func incrementByUnit(_ number: Int, _ unit: Int) -> Int {
 
   return number + unit
