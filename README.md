@@ -29,4 +29,4 @@ swift <TARGET_FILE>.swift
 > [!NOTE]
 > To find instructions on how to install Swift on your operating system, visit the following link:
 > </br></br>
-> <a name="my-custom-anchor-point">Swift Installation</a>
+[Swift Installation](https://www.swift.org/install/)
