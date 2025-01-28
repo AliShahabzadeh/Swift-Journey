@@ -9,3 +9,13 @@ for i in preferredLanguages{
   counter += 1
 
 }
+
+/*
+SAMPLE OUTPUT:
+
+Your preferred language no. 0 is: en-US
+Your preferred language no. 1 is: it-US
+Your preferred language no. 2 is: fa-US
+Your preferred language no. 3 is: ru-US
+Your preferred language no. 4 is: de-US
+*/
