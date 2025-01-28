@@ -1,7 +1,7 @@
 import Foundation
 
 let preferredLanguages = Locale.preferredLanguages
-var counter  = 0
+var counter  = 1
 
 for i in preferredLanguages{
 
