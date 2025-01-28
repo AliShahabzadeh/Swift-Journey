@@ -1,3 +1,10 @@
+//
+//  ComplexFunction_2(Currying).swift
+//  Swift-Journey
+//
+//  Created by Ali Shahabzadeh on 28/01/2025.
+//
+
 //Extended from FirstFunction.swift & ComplexFunction_1(Currying).swift
 
 func add(_ a: Int) -> (Int) -> Int {
