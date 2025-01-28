@@ -1,3 +1,10 @@
+//
+//  LocalePrint.swift
+//  Swift-Journey
+//
+//  Created by Ali Shahabzadeh on 28/01/2025.
+//
+
 import Foundation
 
 if let lang = Locale.current.languageCode{
