@@ -16,8 +16,15 @@ Then, using the following command run the target binary
 ```
 ./<TARGET_FILE>
 ```
-## Fast Run
+### Fast Run
 To fast run the files without compiling use the following command
 ```
 swift <TARGET_FILE>.swift
 ```
+
+## Installation
+
+> [!NOTE]
+> To find the instructions on how to install Swift on your Operating System go to the following link
+> </br></br>
+> <a name="my-custom-anchor-point">Swift Installation</a>
