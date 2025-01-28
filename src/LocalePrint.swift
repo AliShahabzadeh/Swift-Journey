@@ -22,3 +22,11 @@ if let lang = Locale.current.languageCode{
   }
 
 }
+
+/*
+SAMPLE OUTPUT (Device language is set to US English):
+
+Hello World!
+*/
+
+//WARNING: 'languageCode' is deprecated since macOS 13 and renamed to language.languageCode.identifier
