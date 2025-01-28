@@ -16,3 +16,8 @@ Then, using the following command run the target binary
 ```
 ./<TARGET_FILE>
 ```
+## Fast Run
+To fast run the files without compiling use the following command
+```
+swift <TARGET_FILE>.swift
+```
