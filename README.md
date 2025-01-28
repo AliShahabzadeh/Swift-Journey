@@ -1,4 +1,4 @@
-# Swift-Journey
+# Swift Journey
 Little Pieces of Codes to Learn Swift
 
 ## Build and Run
