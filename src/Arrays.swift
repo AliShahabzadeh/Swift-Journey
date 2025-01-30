@@ -1,5 +1,5 @@
 //
-//  PrintOdd_While.swift
+//  Arrays.swift
 //  Swift-Journey
 //
 //  Created by Ali Shahabzadeh on 30/01/2025.
